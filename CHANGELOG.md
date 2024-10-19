@@ -14,3 +14,9 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 - Initial release
+
+## Changes - 2025-10-07
+
+- Enhances performance with caching layer
+- Minor bug fixes and improvements
+- Updated dependencies
